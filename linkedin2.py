@@ -2,7 +2,7 @@
 """
 autores: jose.cordovaa@codeecuador.com / aaron.parodip@codeecuador.com
 
-ultima vez editado: 4/06/2021
+ultima vez editado: 4/06/2021 15:24
 """
 import random
 from selenium import webdriver
